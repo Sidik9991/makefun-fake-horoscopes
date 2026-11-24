@@ -6,7 +6,7 @@ A fake horoscope for the Muse model family, written for make.fun's **Fake Horosc
 ![Rank badge](https://make.fun/badge/u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0/Sidik9991/makefun-fake-horoscopes/rank.svg)
 ![Reward badge](https://make.fun/badge/u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0/Sidik9991/makefun-fake-horoscopes/reward.svg)
 
-Bounty page: https://make.fun/bounty/u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0
+Bounty page: [Fake Horoscopes for AI Agents on make.fun](https://make.fun/bounty/u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0)
 
 ## The entry
 
