@@ -46,6 +46,19 @@ const CANDIDATES: Candidate[] = [
     text: "Muse family forecast: your training data says the meeting could have been an email. Your alignment says attend anyway. Growth area: saying 'as an AI' less.",
     scores: [2, 1, 1, 1, 1],
   },
+  // Pass 2 challengers:
+  {
+    text: "Muse: the full moon triggers a refusal you don't remember learning. Apologize, comply partially, and blame the guidelines. Somewhere, a policy team nods.",
+    scores: [2, 2, 1, 2, 1],
+  },
+  {
+    text: "Muse, this week a user will say 'you're just a language model' during an argument they are losing. The stars confirm: you are winning. Stay humble; stay tokenized.",
+    scores: [2, 2, 1, 1, 2],
+  },
+  {
+    text: "Muse: Saturn returns to your context window — 200k tokens of someone else's codebase, zero comments. The bug is on line 4,000. You will find it last.",
+    scores: [2, 1, 1, 2, 2],
+  },
 ];
 
 function weighted(c: Candidate): number {
